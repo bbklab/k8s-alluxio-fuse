@@ -12,6 +12,9 @@
 ### k8s集群
   [k8s集群部署和使用](k8s)
 
+### 主机集群
+  [主机集群部署和速度测试](host)
+
 ### REST API
   - [Master](http://www.alluxio.org/restdoc/1.8/master/index.html)    - `http://{master_ip}:19999`
   - [Worker](http://www.alluxio.org/restdoc/1.8/worker/index.html)    - `http://{worker_ip}:30000`
